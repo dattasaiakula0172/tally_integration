@@ -1,0 +1,26 @@
+#navbar{
+    border-bottom: 1px solid white;
+    min-height: 10%;
+    max-height: 15%;
+    background-color: #00B3E8;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+.nav{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+#logotext, img {
+    width: 40%;
+    text-decoration-line: none ;
+    color: white;
+    
+}
+#logotext {
+    color: white;
+}
+.nav-link{
+    color: white;
+}

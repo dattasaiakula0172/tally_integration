@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "firstname": "Ratna Raju",
+      "lastname": "Jetty",
+      "email": "ratna@gmail.com",
+      "password": "ratna@1234",
+      "contactnumber": "9876526789",
+      "address": "A S Nagar, Hyderabad, 500032.",
+      "id": 1
+    },
+    {
+      "firstname": "Jagadeesh",
+      "lastname": "G",
+      "email": "jaga@gmail.com",
+      "password": "jaga@1234",
+      "contactnumber": "6546525425",
+      "address": "Nizampet, Near JNTUH, Hyderabad, 500034.",
+      "id": 2
+    },
+    {
+      "firstname": "Dattasai",
+      "lastname": "Akula",
+      "email": "dakula@rjeys.com",
+      "password": "dakula@1234",
+      "contactnumber": "9876526789",
+      "address": "Ongole,523001",
+      "id": 3
+    },
+    {
+      "firstname": "demo",
+      "lastname": "test",
+      "email": "demo@gmail.com",
+      "password": "demo@1234",
+      "contactnumber": "7654785698",
+      "address": "hyd",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

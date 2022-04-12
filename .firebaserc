@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tally-integration-e2669"
+  },
+  "targets": {
+    "tally-integration-e2669": {
+      "hosting": {
+        "tally_integration": [
+          "tally-integration-e2669"
+        ]
+      }
+    }
+  }
+}
